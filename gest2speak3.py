@@ -16,7 +16,7 @@ MODEL_PATH = "final_model.keras"
 LABELS_PATH = "class_indices.json"
 ROI_COORDS = (100, 100, 400, 400)
 
-# Load model and labels
+# Load model and label
 @st.cache_resource
 def load_model_and_labels():
     model = load_model(MODEL_PATH)
