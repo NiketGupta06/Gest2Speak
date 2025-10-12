@@ -35,16 +35,3 @@ Using **Computer Vision (CNN + LSTM)** and **Text-to-Speech (TTS)** technologies
 | Validation Accuracy | 94.2% |
 | Model Type | CNN + LSTM |
 | Inference Speed | ~30 FPS (on GPU) |
-
----
-
-cd Gest2Speak
-Gest2Speak/
-│
-├── app.py                  # Streamlit frontend
-├── model/                  # Saved trained model (.h5)
-├── dataset/                # Dataset (images or videos)
-├── utils/                  # Helper scripts (preprocessing, TTS, etc.)
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-└── assets/                 # Images, graphs, and UI visuals
