@@ -6,6 +6,7 @@ import json
 import threading
 import time
 
+
 # Streamlit config
 st.set_page_config(page_title="Gest2Speak Demo", layout="centered")
 st.title("🖐️ Gest2Speak: Gesture to Speech Demo")
