@@ -6,6 +6,11 @@ Using **Computer Vision (CNN + LSTM)** and **Text-to-Speech (TTS)** technologies
 ---
 
 
+## Demonstration
+https://gest2speak.streamlit.app/ - click here to deploy
+
+---
+
 ## 🚀 Features
 
 - 🤖 **Real-Time Gesture Recognition** using CNN + LSTM hybrid deep learning architecture.  
