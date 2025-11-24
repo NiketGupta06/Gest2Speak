@@ -7,7 +7,7 @@ Using **Computer Vision (CNN + LSTM)** and **Text-to-Speech (TTS)** technologies
 
 
 ## Demonstration
-https://gest2speak.streamlit.app/ - click here to deploy
+[▶️ Click here to open the dashboard](https://gest2speak.streamlit.app/)
 
 ---
 
