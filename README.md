@@ -32,7 +32,7 @@ Using **Computer Vision (CNN + LSTM)** and **Text-to-Speech (TTS)** technologies
 
 | Metric | Value |
 |---------|--------|
-| Training Accuracy | 96.8% |
-| Validation Accuracy | 94.2% |
+| Training Accuracy | 90.81% |
+| Validation Accuracy | 87.97% |
 | Model Type | CNN + LSTM |
-| Inference Speed | ~30 FPS (on GPU) |
+| Inference Speed | ~8 FPS (on GPU) |
