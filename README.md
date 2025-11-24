@@ -3,13 +3,12 @@
 **Gest2Speak** is an AI-powered application designed to help individuals with speech impairments communicate effectively through gestures.  
 Using **Computer Vision (CNN + LSTM)** and **Text-to-Speech (TTS)** technologies, it recognises hand gestures in real time and converts them into audible speech.
 
----
 
 
 ## Demonstration
 [▶️ Click here to open the dashboard](https://gest2speak.streamlit.app/)
 
----
+
 
 ## 🚀 Features
 
@@ -19,7 +18,7 @@ Using **Computer Vision (CNN + LSTM)** and **Text-to-Speech (TTS)** technologies
 - 🧩 **Customizable Gestures** – Train your own gesture dataset.  
 - 🖥️ **Streamlit Interface** for user-friendly real-time interaction.
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -31,7 +30,7 @@ Using **Computer Vision (CNN + LSTM)** and **Text-to-Speech (TTS)** technologies
 | **Speech Generation** | gTTS (Google Text-to-Speech) |
 | **Visualization / Analysis** | Matplotlib, NumPy, Pandas |
 
----
+
 
 ## 📊 Model Performance
 
